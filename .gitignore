@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js Build & Cache
+.next/
+out/
+build/
+dist/
+
+# Environment Variables
+.env
+.env*.local
+
+# System & OS Files
+.DS_Store
+*.pem
+tsconfig.tsbuildinfo
+
+# Deployment & Vercel
+.vercel/
+
+# Submission archives & source task briefs
+*.zip
+Sources/

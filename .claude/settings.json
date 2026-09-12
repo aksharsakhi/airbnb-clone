@@ -1,0 +1,8 @@
+{
+  "name": "airbnb-clone-app",
+  "version": "0.1.0",
+  "projectInstructions": "CLAUDE.md",
+  "verificationCommand": "npm run typecheck",
+  "framework": "nextjs-app-router",
+  "language": "typescript"
+}
