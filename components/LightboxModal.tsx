@@ -177,14 +177,3 @@ export default function LightboxModal({
     </div>
   );
 }
-
-
-
-
-
-
-
-
-
-
-
