@@ -91,3 +91,4 @@ This architecture document outlines the production scaling strategy for a global
   - Distributed Tracing: **OpenTelemetry (OTel)** collectors forwarding traces to **Jaeger** for end-to-end latency waterfall inspection.
   - Centralized Logging: **Elasticsearch + FluentBit + Kibana**.
 
+
