@@ -209,3 +209,4 @@ Airbnb-Clone App/
 ├── tsconfig.json                     # TypeScript configuration
 └── next.config.mjs                   # Next.js configuration
 ```
+
