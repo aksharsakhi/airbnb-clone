@@ -210,3 +210,4 @@ Airbnb-Clone App/
 └── next.config.mjs                   # Next.js configuration
 ```
 
+
